@@ -1,5 +1,5 @@
 # Анализ оттока клиентов банка
-[ipynb]() [HTML]()
+[ipynb](https://github.com/natellaful/Portfolio/blob/main/Отток%20клиентов%20банка/Отток%20клиентов%20банка.ipynb) [HTML](https://github.com/natellaful/Portfolio/blob/main/Отток%20клиентов%20банка/Отток%20клиентов%20банка.html)
 
 ## Описание проекта
 
