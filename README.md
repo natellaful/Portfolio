@@ -19,5 +19,5 @@
 
 # Сертификаты и курсы:
 
-- [Интерактивный тренажер по SQL] (https://stepik.org/cert/1699699) (October 2022) (Stepik - Far Eastern Federal University)
+- [Интерактивный тренажер по SQL](https://stepik.org/cert/1699699) (October 2022) (Stepik - Far Eastern Federal University)
 - [Аналитик данных](https://github.com/natellaful/Portfolio/blob/main/Сертификат%20%22Аналитик%20данных%22%20Яндекс%20Практикум.pdf) (July 2023) Яндекс Практикум 
